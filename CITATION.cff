@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated MethodsX article."
+title: "FGDE-SHA-RIME: A Feasibility-Guided Hybrid Method for Continuous Constrained Optimization"
+type: software
+authors:
+  - family-names: Anam
+    given-names: Syaiful
+  - family-names: Zarkasi
+    given-names: Ahmad
+  - family-names: Bukhori
+    given-names: Hilmi Aziz
+  - family-names: Dani
+    given-names: Andrea Tri Rian
+version: 1.0.0
+date-released: 2026-09-23
+repository-code: "REPLACE_WITH_GITHUB_REPOSITORY_URL"
+license: "REPLACE_WITH_CHOSEN_LICENSE"
