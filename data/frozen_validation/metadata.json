@@ -1,0 +1,77 @@
+{
+  "suite_role": "Independent unseen validation after V2 freeze",
+  "original_development": [
+    "g1",
+    "g3",
+    "g4",
+    "g6",
+    "g8",
+    "g9"
+  ],
+  "v2_diagnostic_development": [
+    "g5",
+    "g13"
+  ],
+  "not_included_in_original_experiments": [
+    "g2",
+    "g7",
+    "g10",
+    "g11",
+    "g24"
+  ],
+  "not_included_note": "No runs on these problems were performed in the original development, diagnostic, or frozen-validation experiments. They were evaluated in revision with the frozen configuration and no retuning; see data/remaining_problems/.",
+  "excluded": [
+    "g20"
+  ],
+  "excluded_note": "No feasible solution has been reported for G20, so objective error and the feasibility-first ranking are undefined.",
+  "unseen_validation": [
+    "g12",
+    "g14",
+    "g15",
+    "g16",
+    "g17",
+    "g18",
+    "g19",
+    "g21",
+    "g22",
+    "g23"
+  ],
+  "methods": [
+    "DE-Deb",
+    "RIME",
+    "CA-SHA-RIME-FR",
+    "FGDE-SHA-RIME",
+    "FGDE-SHA-RIME-V2"
+  ],
+  "seeds": [
+    101,
+    202,
+    303,
+    404,
+    505,
+    606,
+    707,
+    808,
+    909,
+    1010,
+    1111,
+    1212,
+    1313,
+    1414,
+    1515,
+    1616,
+    1717,
+    1818,
+    1919,
+    2020,
+    2121,
+    2222,
+    2323,
+    2424,
+    2525
+  ],
+  "population": 20,
+  "nfe": 5000,
+  "equality_tolerance": 0.0001,
+  "v2_frozen_change": "Budget-neutral finite-difference multi-equality projection, trigger after 4 stagnant iterations, attempted every third iteration, up to 6 sensitivity-selected dimensions, finite-difference step 1e-3 of variable span; projection evaluations replace ordinary trials so total NFE remains 5000."
+}

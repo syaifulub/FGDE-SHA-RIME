@@ -1,0 +1,15 @@
+REFERENCE CHECK
+Problem  Dimension  Equalities  Inequalities  Reference optimum  Reference CV
+    g12          3           0             1          -1.000000  0.000000e+00
+    g14         10           3             0         -47.764888  1.532276e-15
+    g15          3           2             0         961.715022  0.000000e+00
+    g16          5           0            38          -1.905155  5.184307e-06
+    g17          6           4             0        8853.534016  0.000000e+00
+    g18          9           0            13          -0.865735  0.000000e+00
+    g19         15           0             5          32.655593  3.108624e-14
+    g21          7           5             1         193.724510  1.111766e-12
+    g22         22          19             1         236.430976  0.000000e+00
+    g23          9           4             2        -400.000000  0.000000e+00
+completed g12 elapsed 8.8 s
+completed g14 elapsed 20.2 s
+completed g15 elapsed 29.3 s
