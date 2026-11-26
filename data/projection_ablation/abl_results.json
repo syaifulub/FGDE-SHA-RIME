@@ -1,0 +1,1189 @@
+{
+ "tab": {
+  "g5": {
+   "P": [
+    18,
+    48.089590843225324
+   ],
+   "B": [
+    0,
+    null
+   ],
+   "P-random-dims": [
+    20,
+    69.31428880214162
+   ],
+   "P-single-equality": [
+    0,
+    null
+   ],
+   "P-no-interpolation": [
+    19,
+    31.292536299313724
+   ],
+   "Minimal-P": [
+    20,
+    21.188734364519405
+   ],
+   "DE-Deb": [
+    22,
+    79.79855014254235
+   ],
+   "DE-Deb+P": [
+    22,
+    54.42749056718958
+   ]
+  },
+  "g13": {
+   "P": [
+    25,
+    0.0699238674279981
+   ],
+   "B": [
+    0,
+    null
+   ],
+   "P-random-dims": [
+    25,
+    0.0492265339807846
+   ],
+   "P-single-equality": [
+    13,
+    0.0535734852715344
+   ],
+   "P-no-interpolation": [
+    25,
+    0.258760215666286
+   ],
+   "Minimal-P": [
+    25,
+    0.0694465190075611
+   ],
+   "DE-Deb": [
+    22,
+    0.9374188102113752
+   ],
+   "DE-Deb+P": [
+    25,
+    0.9298982944603628
+   ]
+  },
+  "g3": {
+   "P": [
+    25,
+    0.6126840848458153
+   ],
+   "B": [
+    25,
+    0.4708947103035179
+   ],
+   "P-random-dims": [
+    25,
+    0.6560860587582839
+   ],
+   "P-single-equality": [
+    25,
+    0.6126840848458153
+   ],
+   "P-no-interpolation": [
+    25,
+    0.5772061679828597
+   ],
+   "Minimal-P": [
+    25,
+    0.9729138826562812
+   ],
+   "DE-Deb": [
+    22,
+    0.9787633700131633
+   ],
+   "DE-Deb+P": [
+    25,
+    0.988055780438547
+   ]
+  },
+  "g11": {
+   "P": [
+    25,
+    0.2501
+   ],
+   "B": [
+    25,
+    0.2501
+   ],
+   "P-random-dims": [
+    25,
+    0.2501
+   ],
+   "P-single-equality": [
+    25,
+    0.2501
+   ],
+   "P-no-interpolation": [
+    25,
+    0.2501
+   ],
+   "Minimal-P": [
+    25,
+    0.2501
+   ],
+   "DE-Deb": [
+    25,
+    0.2501
+   ],
+   "DE-Deb+P": [
+    25,
+    0.2501
+   ]
+  },
+  "g14": {
+   "P": [
+    22,
+    5.066622448816528
+   ],
+   "B": [
+    4,
+    5.8569381353969945
+   ],
+   "P-random-dims": [
+    25,
+    6.5986860840844415
+   ],
+   "P-single-equality": [
+    19,
+    5.978264174723876
+   ],
+   "P-no-interpolation": [
+    21,
+    5.250702268160154
+   ],
+   "Minimal-P": [
+    24,
+    4.415904773832782
+   ],
+   "DE-Deb": [
+    25,
+    4.346518143955699
+   ],
+   "DE-Deb+P": [
+    25,
+    4.693908879576149
+   ]
+  },
+  "g15": {
+   "P": [
+    19,
+    0.5133180258842458
+   ],
+   "B": [
+    5,
+    0.1064233217999799
+   ],
+   "P-random-dims": [
+    18,
+    0.15070067396800366
+   ],
+   "P-single-equality": [
+    8,
+    0.40513216909272387
+   ],
+   "P-no-interpolation": [
+    20,
+    0.5242605830356979
+   ],
+   "Minimal-P": [
+    19,
+    1.2658660906284922
+   ],
+   "DE-Deb": [
+    25,
+    2.510984813568939
+   ],
+   "DE-Deb+P": [
+    25,
+    1.525929193004231
+   ]
+  },
+  "g17": {
+   "P": [
+    22,
+    115.18553812001392
+   ],
+   "B": [
+    0,
+    null
+   ],
+   "P-random-dims": [
+    24,
+    104.94587942901217
+   ],
+   "P-single-equality": [
+    0,
+    null
+   ],
+   "P-no-interpolation": [
+    22,
+    107.64196888487186
+   ],
+   "Minimal-P": [
+    25,
+    104.88258183790094
+   ],
+   "DE-Deb": [
+    20,
+    106.1377312954246
+   ],
+   "DE-Deb+P": [
+    25,
+    107.200139305849
+   ]
+  },
+  "g21": {
+   "P": [
+    8,
+    105.24758368954187
+   ],
+   "B": [
+    0,
+    null
+   ],
+   "P-random-dims": [
+    9,
+    34.60202168226573
+   ],
+   "P-single-equality": [
+    0,
+    null
+   ],
+   "P-no-interpolation": [
+    7,
+    154.367251232429
+   ],
+   "Minimal-P": [
+    9,
+    159.38810678683427
+   ],
+   "DE-Deb": [
+    2,
+    406.2422396217417
+   ],
+   "DE-Deb+P": [
+    16,
+    383.5235666969865
+   ]
+  },
+  "g22": {
+   "P": [
+    0,
+    null
+   ],
+   "B": [
+    0,
+    null
+   ],
+   "P-random-dims": [
+    0,
+    null
+   ],
+   "P-single-equality": [
+    0,
+    null
+   ],
+   "P-no-interpolation": [
+    0,
+    null
+   ],
+   "Minimal-P": [
+    0,
+    null
+   ],
+   "DE-Deb": [
+    0,
+    null
+   ],
+   "DE-Deb+P": [
+    0,
+    null
+   ]
+  },
+  "g23": {
+   "P": [
+    11,
+    399.770116461028
+   ],
+   "B": [
+    0,
+    null
+   ],
+   "P-random-dims": [
+    11,
+    448.1614538668364
+   ],
+   "P-single-equality": [
+    1,
+    399.9976019041815
+   ],
+   "P-no-interpolation": [
+    9,
+    404.0959785362428
+   ],
+   "Minimal-P": [
+    9,
+    463.0385359354064
+   ],
+   "DE-Deb": [
+    9,
+    506.4515889273735
+   ],
+   "DE-Deb+P": [
+    16,
+    414.2225337053371
+   ]
+  },
+  "g12": {
+   "P": [
+    25,
+    0.0
+   ],
+   "B": [
+    25,
+    0.0
+   ],
+   "Minimal-P": [
+    25,
+    0.0
+   ],
+   "DE-Deb": [
+    25,
+    0.0
+   ]
+  },
+  "g16": {
+   "P": [
+    16,
+    0.1761219427176921
+   ],
+   "B": [
+    16,
+    0.1761219427176921
+   ],
+   "Minimal-P": [
+    21,
+    0.1675680919770625
+   ],
+   "DE-Deb": [
+    23,
+    0.0241687021676755
+   ]
+  },
+  "g18": {
+   "P": [
+    25,
+    0.2240131345047872
+   ],
+   "B": [
+    25,
+    0.2240131345047872
+   ],
+   "Minimal-P": [
+    25,
+    0.1705538670417188
+   ],
+   "DE-Deb": [
+    24,
+    0.0088973413061085
+   ]
+  },
+  "g19": {
+   "P": [
+    25,
+    4.887018251700383
+   ],
+   "B": [
+    25,
+    4.887018251700383
+   ],
+   "Minimal-P": [
+    25,
+    579.0504101463594
+   ],
+   "DE-Deb": [
+    25,
+    48.40965855426021
+   ]
+  },
+  "g1": {
+   "P": [
+    25,
+    3.000002103541183
+   ],
+   "B": [
+    25,
+    3.000002103541183
+   ],
+   "Minimal-P": [
+    25,
+    7.016421274171464
+   ],
+   "DE-Deb": [
+    25,
+    3.000000471038316
+   ]
+  },
+  "g4": {
+   "P": [
+    25,
+    8.039933163672686e-10
+   ],
+   "B": [
+    25,
+    8.039933163672686e-10
+   ],
+   "Minimal-P": [
+    25,
+    81.43736536915094
+   ],
+   "DE-Deb": [
+    25,
+    0.003700482797285
+   ]
+  },
+  "g6": {
+   "P": [
+    25,
+    26.099790325568392
+   ],
+   "B": [
+    25,
+    26.099790325568392
+   ],
+   "Minimal-P": [
+    25,
+    177.2777195840181
+   ],
+   "DE-Deb": [
+    21,
+    67.19978884675857
+   ]
+  },
+  "g8": {
+   "P": [
+    25,
+    0.0
+   ],
+   "B": [
+    25,
+    0.0
+   ],
+   "Minimal-P": [
+    25,
+    0.0
+   ],
+   "DE-Deb": [
+    25,
+    0.0
+   ]
+  },
+  "g9": {
+   "P": [
+    25,
+    0.0260987391089884
+   ],
+   "B": [
+    25,
+    0.0260987391089884
+   ],
+   "Minimal-P": [
+    25,
+    15.039400407504104
+   ],
+   "DE-Deb": [
+    25,
+    0.6956577016520669
+   ]
+  }
+ },
+ "tests": [
+  {
+   "cmp": "P vs B",
+   "problem": "g5",
+   "win": 18,
+   "loss": 0,
+   "p": 7.62939453125e-06,
+   "pholm": 0.00043487548828125
+  },
+  {
+   "cmp": "P vs P-random-dims",
+   "problem": "g5",
+   "win": 4,
+   "loss": 6,
+   "p": 0.75390625,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs P-single-equality",
+   "problem": "g5",
+   "win": 18,
+   "loss": 0,
+   "p": 7.62939453125e-06,
+   "pholm": 0.00043487548828125
+  },
+  {
+   "cmp": "P vs P-no-interpolation",
+   "problem": "g5",
+   "win": 5,
+   "loss": 6,
+   "p": 1.0,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs Minimal-P",
+   "problem": "g5",
+   "win": 4,
+   "loss": 6,
+   "p": 0.75390625,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "DE-Deb+P vs DE-Deb",
+   "problem": "g5",
+   "win": 2,
+   "loss": 2,
+   "p": 1.0,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs B",
+   "problem": "g13",
+   "win": 25,
+   "loss": 0,
+   "p": 5.960464477539063e-08,
+   "pholm": 3.5762786865234375e-06
+  },
+  {
+   "cmp": "P vs P-random-dims",
+   "problem": "g13",
+   "win": 0,
+   "loss": 0,
+   "p": 1.0,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs P-single-equality",
+   "problem": "g13",
+   "win": 12,
+   "loss": 0,
+   "p": 0.00048828125,
+   "pholm": 0.025390625
+  },
+  {
+   "cmp": "P vs P-no-interpolation",
+   "problem": "g13",
+   "win": 0,
+   "loss": 0,
+   "p": 1.0,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs Minimal-P",
+   "problem": "g13",
+   "win": 0,
+   "loss": 0,
+   "p": 1.0,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "DE-Deb+P vs DE-Deb",
+   "problem": "g13",
+   "win": 3,
+   "loss": 0,
+   "p": 0.25,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs B",
+   "problem": "g3",
+   "win": 0,
+   "loss": 0,
+   "p": 1.0,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs P-random-dims",
+   "problem": "g3",
+   "win": 0,
+   "loss": 0,
+   "p": 1.0,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs P-single-equality",
+   "problem": "g3",
+   "win": 0,
+   "loss": 0,
+   "p": 1.0,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs P-no-interpolation",
+   "problem": "g3",
+   "win": 0,
+   "loss": 0,
+   "p": 1.0,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs Minimal-P",
+   "problem": "g3",
+   "win": 0,
+   "loss": 0,
+   "p": 1.0,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "DE-Deb+P vs DE-Deb",
+   "problem": "g3",
+   "win": 3,
+   "loss": 0,
+   "p": 0.25,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs B",
+   "problem": "g11",
+   "win": 0,
+   "loss": 0,
+   "p": 1.0,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs P-random-dims",
+   "problem": "g11",
+   "win": 0,
+   "loss": 0,
+   "p": 1.0,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs P-single-equality",
+   "problem": "g11",
+   "win": 0,
+   "loss": 0,
+   "p": 1.0,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs P-no-interpolation",
+   "problem": "g11",
+   "win": 0,
+   "loss": 0,
+   "p": 1.0,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs Minimal-P",
+   "problem": "g11",
+   "win": 0,
+   "loss": 0,
+   "p": 1.0,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "DE-Deb+P vs DE-Deb",
+   "problem": "g11",
+   "win": 0,
+   "loss": 0,
+   "p": 1.0,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs B",
+   "problem": "g14",
+   "win": 19,
+   "loss": 1,
+   "p": 4.00543212890625e-05,
+   "pholm": 0.0022029876708984375
+  },
+  {
+   "cmp": "P vs P-random-dims",
+   "problem": "g14",
+   "win": 0,
+   "loss": 3,
+   "p": 0.25,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs P-single-equality",
+   "problem": "g14",
+   "win": 5,
+   "loss": 2,
+   "p": 0.453125,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs P-no-interpolation",
+   "problem": "g14",
+   "win": 4,
+   "loss": 3,
+   "p": 1.0,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs Minimal-P",
+   "problem": "g14",
+   "win": 1,
+   "loss": 3,
+   "p": 0.625,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "DE-Deb+P vs DE-Deb",
+   "problem": "g14",
+   "win": 0,
+   "loss": 0,
+   "p": 1.0,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs B",
+   "problem": "g15",
+   "win": 14,
+   "loss": 0,
+   "p": 0.0001220703125,
+   "pholm": 0.006591796875
+  },
+  {
+   "cmp": "P vs P-random-dims",
+   "problem": "g15",
+   "win": 5,
+   "loss": 4,
+   "p": 1.0,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs P-single-equality",
+   "problem": "g15",
+   "win": 15,
+   "loss": 4,
+   "p": 0.0192108154296875,
+   "pholm": 0.883697509765625
+  },
+  {
+   "cmp": "P vs P-no-interpolation",
+   "problem": "g15",
+   "win": 1,
+   "loss": 2,
+   "p": 1.0,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs Minimal-P",
+   "problem": "g15",
+   "win": 4,
+   "loss": 4,
+   "p": 1.0,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "DE-Deb+P vs DE-Deb",
+   "problem": "g15",
+   "win": 0,
+   "loss": 0,
+   "p": 1.0,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs B",
+   "problem": "g17",
+   "win": 22,
+   "loss": 0,
+   "p": 4.76837158203125e-07,
+   "pholm": 2.8133392333984375e-05
+  },
+  {
+   "cmp": "P vs P-random-dims",
+   "problem": "g17",
+   "win": 1,
+   "loss": 3,
+   "p": 0.625,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs P-single-equality",
+   "problem": "g17",
+   "win": 22,
+   "loss": 0,
+   "p": 4.76837158203125e-07,
+   "pholm": 2.8133392333984375e-05
+  },
+  {
+   "cmp": "P vs P-no-interpolation",
+   "problem": "g17",
+   "win": 2,
+   "loss": 2,
+   "p": 1.0,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs Minimal-P",
+   "problem": "g17",
+   "win": 0,
+   "loss": 3,
+   "p": 0.25,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "DE-Deb+P vs DE-Deb",
+   "problem": "g17",
+   "win": 5,
+   "loss": 0,
+   "p": 0.0625,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs B",
+   "problem": "g21",
+   "win": 8,
+   "loss": 0,
+   "p": 0.0078125,
+   "pholm": 0.3828125
+  },
+  {
+   "cmp": "P vs P-random-dims",
+   "problem": "g21",
+   "win": 4,
+   "loss": 5,
+   "p": 1.0,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs P-single-equality",
+   "problem": "g21",
+   "win": 8,
+   "loss": 0,
+   "p": 0.0078125,
+   "pholm": 0.3828125
+  },
+  {
+   "cmp": "P vs P-no-interpolation",
+   "problem": "g21",
+   "win": 2,
+   "loss": 1,
+   "p": 1.0,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs Minimal-P",
+   "problem": "g21",
+   "win": 7,
+   "loss": 8,
+   "p": 1.0,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "DE-Deb+P vs DE-Deb",
+   "problem": "g21",
+   "win": 14,
+   "loss": 0,
+   "p": 0.0001220703125,
+   "pholm": 0.006591796875
+  },
+  {
+   "cmp": "P vs B",
+   "problem": "g22",
+   "win": 0,
+   "loss": 0,
+   "p": 1.0,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs P-random-dims",
+   "problem": "g22",
+   "win": 0,
+   "loss": 0,
+   "p": 1.0,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs P-single-equality",
+   "problem": "g22",
+   "win": 0,
+   "loss": 0,
+   "p": 1.0,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs P-no-interpolation",
+   "problem": "g22",
+   "win": 0,
+   "loss": 0,
+   "p": 1.0,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs Minimal-P",
+   "problem": "g22",
+   "win": 0,
+   "loss": 0,
+   "p": 1.0,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "DE-Deb+P vs DE-Deb",
+   "problem": "g22",
+   "win": 0,
+   "loss": 0,
+   "p": 1.0,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs B",
+   "problem": "g23",
+   "win": 11,
+   "loss": 0,
+   "p": 0.0009765625,
+   "pholm": 0.0498046875
+  },
+  {
+   "cmp": "P vs P-random-dims",
+   "problem": "g23",
+   "win": 5,
+   "loss": 5,
+   "p": 1.0,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs P-single-equality",
+   "problem": "g23",
+   "win": 10,
+   "loss": 0,
+   "p": 0.001953125,
+   "pholm": 0.09765625
+  },
+  {
+   "cmp": "P vs P-no-interpolation",
+   "problem": "g23",
+   "win": 4,
+   "loss": 2,
+   "p": 0.6875,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "P vs Minimal-P",
+   "problem": "g23",
+   "win": 7,
+   "loss": 5,
+   "p": 0.7744140625,
+   "pholm": 1.0
+  },
+  {
+   "cmp": "DE-Deb+P vs DE-Deb",
+   "problem": "g23",
+   "win": 7,
+   "loss": 0,
+   "p": 0.015625,
+   "pholm": 0.734375
+  }
+ ],
+ "pooled": {
+  "P": 175,
+  "B": 59,
+  "P-random-dims": 182,
+  "P-single-equality": 91,
+  "P-no-interpolation": 173,
+  "Minimal-P": 181,
+  "DE-Deb": 172,
+  "DE-Deb+P": 204,
+  "frozen_eq:P": 82,
+  "frozen_eq:B": 9,
+  "frozen_eq:P-random-dims": 87,
+  "frozen_eq:P-single-equality": 28,
+  "frozen_eq:P-no-interpolation": 79,
+  "frozen_eq:Minimal-P": 86,
+  "frozen_eq:DE-Deb": 81,
+  "frozen_eq:DE-Deb+P": 107,
+  "diag:P": 43,
+  "diag:B": 0,
+  "diag:P-random-dims": 45,
+  "diag:P-single-equality": 13,
+  "diag:P-no-interpolation": 44,
+  "diag:Minimal-P": 45,
+  "diag:DE-Deb": 44,
+  "diag:DE-Deb+P": 47,
+  "single:P": 50,
+  "single:B": 50,
+  "single:P-random-dims": 50,
+  "single:P-single-equality": 50,
+  "single:P-no-interpolation": 50,
+  "single:Minimal-P": 50,
+  "single:DE-Deb": 47,
+  "single:DE-Deb+P": 50
+ },
+ "pooled_mcn": {
+  "P vs B": [
+   117,
+   1,
+   7.162051980690033e-34
+  ],
+  "P vs P-random-dims": [
+   19,
+   26,
+   0.3712980344710104
+  ],
+  "P vs P-single-equality": [
+   90,
+   6,
+   2.5032559976926473e-20
+  ],
+  "P vs P-no-interpolation": [
+   18,
+   16,
+   0.8641662404406816
+  ],
+  "P vs Minimal-P": [
+   23,
+   29,
+   0.48845566937989204
+  ],
+  "DE-Deb+P vs DE-Deb": [
+   34,
+   2,
+   1.941225491464138e-08
+  ],
+  "P vs Minimal-P (all)": [
+   26,
+   37,
+   0.20736789985685422
+  ],
+  "P vs DE-Deb (all)": [
+   33,
+   32,
+   1.0
+  ]
+ },
+ "tot": {
+  "P": 391,
+  "B": 275,
+  "Minimal-P": 402,
+  "DE-Deb": 390
+ },
+ "err_min": [
+  {
+   "problem": "g5",
+   "n": 14,
+   "p": 0.7608642578125,
+   "P_better": 8,
+   "median_P": 48.089590843225324,
+   "median_min": 17.917133890395235,
+   "pholm": 1.0
+  },
+  {
+   "problem": "g13",
+   "n": 25,
+   "p": 1.0,
+   "P_better": 12,
+   "median_P": 0.0699238674279981,
+   "median_min": 0.0694465190075611,
+   "pholm": 1.0
+  },
+  {
+   "problem": "g3",
+   "n": 25,
+   "p": 7.49826431274414e-05,
+   "P_better": 23,
+   "median_P": 0.6126840848458153,
+   "median_min": 0.9729138826562812,
+   "pholm": 0.0005998611450195312
+  },
+  {
+   "problem": "g14",
+   "n": 21,
+   "p": 0.5167608261108398,
+   "P_better": 8,
+   "median_P": 4.9409842302851175,
+   "median_min": 4.387507385789704,
+   "pholm": 1.0
+  },
+  {
+   "problem": "g15",
+   "n": 15,
+   "p": 0.359130859375,
+   "P_better": 9,
+   "median_P": 0.3903300238551992,
+   "median_min": 1.4988309953193948,
+   "pholm": 1.0
+  },
+  {
+   "problem": "g17",
+   "n": 22,
+   "p": 0.4434065818786621,
+   "P_better": 9,
+   "median_P": 115.18553812001392,
+   "median_min": 109.73911471322118,
+   "pholm": 1.0
+  },
+  {
+   "problem": "g16",
+   "n": 13,
+   "p": 0.339599609375,
+   "P_better": 6,
+   "median_P": 0.2310768825252456,
+   "median_min": 0.1656795371222417,
+   "pholm": 1.0
+  },
+  {
+   "problem": "g18",
+   "n": 25,
+   "p": 0.034173786640167236,
+   "P_better": 8,
+   "median_P": 0.2240131345047872,
+   "median_min": 0.1705538670417188,
+   "pholm": 0.23921650648117065
+  },
+  {
+   "problem": "g19",
+   "n": 25,
+   "p": 5.960464477539063e-08,
+   "P_better": 25,
+   "median_P": 4.887018251700383,
+   "median_min": 579.0504101463594,
+   "pholm": 7.748603820800781e-07
+  },
+  {
+   "problem": "g1",
+   "n": 25,
+   "p": 5.960464477539062e-07,
+   "P_better": 23,
+   "median_P": 3.000002103541183,
+   "median_min": 7.016421274171464,
+   "pholm": 5.9604644775390625e-06
+  },
+  {
+   "problem": "g4",
+   "n": 25,
+   "p": 5.960464477539063e-08,
+   "P_better": 25,
+   "median_P": 8.039933163672686e-10,
+   "median_min": 81.43736536915094,
+   "pholm": 7.748603820800781e-07
+  },
+  {
+   "problem": "g6",
+   "n": 25,
+   "p": 3.1948089599609375e-05,
+   "P_better": 22,
+   "median_P": 26.099790325568392,
+   "median_min": 177.2777195840181,
+   "pholm": 0.0002875328063964844
+  },
+  {
+   "problem": "g9",
+   "n": 25,
+   "p": 5.960464477539063e-08,
+   "P_better": 25,
+   "median_P": 0.0260987391089884,
+   "median_min": 15.039400407504104,
+   "pholm": 7.748603820800781e-07
+  }
+ ]
+}
